@@ -1,0 +1,7 @@
+- [joinmastodon](https://joinmastodon.org/)
+- [FOSDEM fediwall](https://andypiper.paste.lol/fosdemwall)
+- [Mastodon near you](https://umap.openstreetmap.fr/en/map/mastodon-near-me-fediverse-communities-by-country-_828094#5/52.025/8.481)
+- [Feditrends](https://feditrends.com/)
+- [Mapstodon](https://www.comeetie.fr/galerie/mapstodon2024/)
+- [Spread Mastodon](https://spreadmastodon.org/)
+- [apps](https://joinmastodon.org/apps)
