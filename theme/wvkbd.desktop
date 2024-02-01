@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Toggle wvkbd Keyboard
+Comment=Toggle wvkbd Keyboard
+Exec=/usr/bin/toggle-wvkbd.sh
+Type=Application
+Icon=matchbox-keyboard.png
+Categories=Panel;Utility;MB
+X-MB-INPUT-MECHANISM=True
+Name[en_US]=Toggle wvkbd
