@@ -5,3 +5,5 @@
 - [Mapstodon](https://www.comeetie.fr/galerie/mapstodon2024/)
 - [Spread Mastodon](https://spreadmastodon.org/)
 - [apps](https://joinmastodon.org/apps)
+- [upgrade](https://andypiper.org/mastodon-info/)
+- [credits](https://andypiper.org/mastodon-info/thanks.html)
